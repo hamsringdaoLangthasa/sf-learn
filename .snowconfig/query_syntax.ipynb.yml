@@ -1,0 +1,5 @@
+location:
+  database: AIRBNB
+  schema: DEV
+  name: NOTEBOOK_PROJECT_7D73EF75
+role: ACCOUNTADMIN
